@@ -9,11 +9,11 @@ The dataset used in this project is the MNIST dataset, which is a collection of 
 # Requirements
 To run this project, you need to have the following installed:
 
-1.Python 3
-2.TensorFlow
-3.Keras
-4.NumPy
-5.Matplotlib
+1.Python 3 <br>
+2.TensorFlow <br>
+3.Keras <br>
+4.NumPy <br>
+5.Matplotlib <br>
 
 # Future Work
 In the future, we plan to explore other machine learning algorithms and compare their performance to the ANN model. We also plan to implement a user interface where users can input their own handwritten digits and have the model classify them.
